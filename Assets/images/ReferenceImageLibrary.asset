@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5554845149112411132
+  m_GuidHigh: 10504262352687624598
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4618608952225000629
+      m_GuidHigh: 8995622858235315598
+    m_SerializedTextureGuid:
+      m_GuidLow: 12724052861857454274
+      m_GuidHigh: 10202865268505086539
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Bateri
+    m_Texture: {fileID: 2800000, guid: b64e58c2eaa9b0944b8a6a94e7db978d, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4832313384266626485
+      m_GuidHigh: 15643393322910512317
+    m_SerializedTextureGuid:
+      m_GuidLow: 12530231691696230337
+      m_GuidHigh: 3319535146497385595
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Gitar
+    m_Texture: {fileID: 2800000, guid: e8e54fc15355ade47ba466caa05b112e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5085035926032450068
+      m_GuidHigh: 4514579465736127638
+    m_SerializedTextureGuid:
+      m_GuidLow: 15007312430037140688
+      m_GuidHigh: 11979430244494012203
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Sebnem
+    m_Texture: {fileID: 2800000, guid: 99ab04d0af24d0442befa26e567c3fa6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5758303468329366344
+      m_GuidHigh: 16861658957792340144
+    m_SerializedTextureGuid:
+      m_GuidLow: 2144929902618818961
+      m_GuidHigh: 4581269200660083467
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Piano
+    m_Texture: {fileID: 2800000, guid: d1b5399152611dc40b33c8bd10f0933f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5727674462818817488
+      m_GuidHigh: 4791716249549613201
+    m_SerializedTextureGuid:
+      m_GuidLow: 1190165960992605087
+      m_GuidHigh: 1599731931494607898
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Arp
+    m_Texture: {fileID: 2800000, guid: c0b9c39f51a210841aec9548b7633316, type: 3}
