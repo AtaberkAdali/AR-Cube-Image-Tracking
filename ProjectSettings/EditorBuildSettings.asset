@@ -8,4 +8,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AR-Cube-Scene.unity
     guid: 1845ada21357de049b61320a66412f6d
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b79be755a3d25e2479fc4c3821f725f8, type: 2}

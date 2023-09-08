@@ -632,6 +632,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Camera: {fileID: 1791458296}
+  m_OriginBaseGameObject: {fileID: 971772093}
+  m_CameraFloorOffsetObject: {fileID: 0}
+  m_RequestedTrackingOriginMode: 0
+  m_CameraYOffset: 1.1176
 --- !u!4 &971772095
 Transform:
   m_ObjectHideFlags: 0
@@ -1252,6 +1256,7 @@ MonoBehaviour:
   m_AutoFocus: 1
   m_LightEstimation: 0
   m_FacingDirection: 1
+  m_RenderMode: 0
 --- !u!114 &1791458299
 MonoBehaviour:
   m_ObjectHideFlags: 0
